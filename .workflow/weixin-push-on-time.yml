@@ -9,7 +9,7 @@ triggers:
         - master
   schedule:
     # 以下时间指北京时间8点整
-    - cron: '* 0 7 * * ? *'
+    - cron: '* 3 0 * * ? *'
 stages:
   - name: stage-d2bdc7e0
     displayName: 微信推送
