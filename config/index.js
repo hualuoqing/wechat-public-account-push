@@ -94,7 +94,7 @@ export const config = {
     {
       name: ": L",
       id: "o5o9U6GZ7tY6sRG08hKjXZ8rJFTs",
-      useTemplateId: "",
+      useTemplateId: "kKchMRjVJ7AXYmSzll3P2nhgXAQ9OeQH8iUu99Nxs6Q",
       province: "",
       city: "太原",
       horoscopeDate: '',
