@@ -15,7 +15,7 @@ export const config = {
 
   // 是否给文字设置多彩颜色, 和emoji不兼容
   // 如果您使用了微信测试号的模板中含有emoji表情，请填 false
-  IS_SHOW_COLOR: false,
+  IS_SHOW_COLOR: true,
 
   // 功能开关,打开：true，关闭：false
   SWITCH: {
@@ -64,11 +64,11 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "o5o9U6B8b_KhgI71JWuFWhdiw_IQ",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "FiJ2MvLkr7GJJsZ-N6e_ClOAEcfytD258U8FXocKomc",
+      useTemplateId: "kKchMRjVJ7AXYmSzll3P2nhgXAQ9OeQH8iUu99Nxs6Q",
       // 所在省份
       province: "河北",
       // 所在城市
-      city: "保定",
+      city: "武汉",
       // 新历生日, 仅用作获取星座运势, 格式必须
       horoscopeDate: '12-27',
       // 获取什么时候的星座运势，可选：['今日', '明日', '本周', '本月', '今年'], 留空则随机
