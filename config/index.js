@@ -86,7 +86,7 @@ export const config = {
         // 在一起的日子
         {"keyword": "love_day", date: "2001-04-16"},
         // 结婚纪念日
-        {"keyword": "marry_day", date: "2021-01-07"},
+        {"keyword": "marry_day", date: "2022-01-07"},
         // 退伍日
         {"keyword": "ex_day", date: "2022-09-01"},
       ]
