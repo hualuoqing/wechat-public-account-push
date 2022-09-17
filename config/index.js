@@ -93,8 +93,8 @@ export const config = {
     },
     {
       name: ": L",
-      id: "",
-      useTemplateId: "TvfgZipo3IFRsJZR2uRCrDXetTmuLX0lXzd8Yv0dJuw",
+      id: "o5o9U6GZ7tY6sRG08hKjXZ8rJFTs",
+      useTemplateId: "ma4qRx3F76hVV41HC_Rvjb9Pfp1XwEdh3-1tPmxGitw",
       province: "",
       city: "太原",
       horoscopeDate: '',
@@ -104,11 +104,11 @@ export const config = {
       customizedDateList: []
     },
     {
-      name: "老婆2",
-      id: "",
-      useTemplateId: "",
+      name: "靳顺达",
+      id: "o5o9U6Djbc0BbBZsso-CZezP-Hlg",
+      useTemplateId: "ma4qRx3F76hVV41HC_Rvjb9Pfp1XwEdh3-1tPmxGitw",
       province: "",
-      city: "",
+      city: "定州",
       horoscopeDate: '',
       horoscopeDateType: '',
       openUrl: "https://wangxinleo.cn",
@@ -116,11 +116,11 @@ export const config = {
       customizedDateList: []
     },
     {
-      name: "老婆3",
-      id: "",
-      useTemplateId: "",
+      name: "Nicoodoz.",
+      id: "o5o9U6ImQjHlcpHl_r602wg2i-eo",
+      useTemplateId: "ma4qRx3F76hVV41HC_Rvjb9Pfp1XwEdh3-1tPmxGitw",
       province: "",
-      city: "",
+      city: "曲阳",
       horoscopeDate: '',
       horoscopeDateType: '',
       openUrl: "https://wangxinleo.cn",
