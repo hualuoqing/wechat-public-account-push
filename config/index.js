@@ -64,9 +64,9 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "o5o9U6B8b_KhgI71JWuFWhdiw_IQ",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "kKchMRjVJ7AXYmSzll3P2nhgXAQ9OeQH8iUu99Nxs6Q",
+      useTemplateId: "TvfgZipo3IFRsJZR2uRCrDXetTmuLX0lXzd8Yv0dJuw",
       // 所在省份
-      province: "山西",
+      province: "河北",
       // 所在城市
       city: "太原",
       // 新历生日, 仅用作获取星座运势, 格式必须
@@ -94,7 +94,7 @@ export const config = {
     {
       name: ": L",
       id: "o5o9U6GZ7tY6sRG08hKjXZ8rJFTs",
-      useTemplateId: "kKchMRjVJ7AXYmSzll3P2nhgXAQ9OeQH8iUu99Nxs6Q",
+      useTemplateId: "TvfgZipo3IFRsJZR2uRCrDXetTmuLX0lXzd8Yv0dJuw",
       province: "",
       city: "太原",
       horoscopeDate: '',
