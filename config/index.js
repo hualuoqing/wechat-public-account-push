@@ -88,7 +88,7 @@ export const config = {
         // 结婚纪念日
         {"keyword": "marry_day", date: "2023-01-07"},
         // 退伍日
-        {"keyword": "ex_day", date: "2022-09-01"},
+        {"keyword": "ex_day", date: "2022-09-04"},
       ]
     },
     {
