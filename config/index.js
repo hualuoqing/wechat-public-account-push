@@ -78,13 +78,13 @@ export const config = {
       // 专属节日提醒，如果你在这里填写了节日提醒，就不会执行FESTIVALS的提醒了, 和FESTIVALS的配置方法相同，可以往下查看，我这里就不重复写了
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
-        {"type": "*生日", "name": "萌妹的破壳日", "year": "2001", "date": "06-25"},
+        {"type": "*生日", "name": "萌妹", "year": "2001", "date": "06-25"},
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
       ],
       // 专属纪念日/倒数日，如果你在这里填写了纪念日/倒数日，就不会计算CUSTOMIZED_DATE_LIST的日子了, 和CUSTOMIZED_DATE_LIST的配置方法相同，可以往下查看，我这里就不重复写了
       customizedDateList: [
         // 在一起的日子
-        {"keyword": "love_day", date: "2022-09-08"},
+        {"keyword": "love_day", date: "2001-06-25"},
         // 结婚纪念日
         {"keyword": "marry_day", date: "2022-09-09"},
         // 退伍日
@@ -206,9 +206,11 @@ export const config = {
     * */
   CUSTOMIZED_DATE_LIST: [
     // 在一起的日子
-    {"keyword": "love_day", date: "2022-09-08"},
+    {"keyword": "love_day", date: "2001-4-15"},
     // 结婚纪念日
-    {"keyword": "marry_day", date: "2022-09-09"},
+    {"keyword": "marry_day", date: "202-01-07"},
+    {"keyword":"hp_day",date:"2020-01-01"},
+    //新年
     // 退伍日
     {"keyword": "ex_day", date: "2022-09-10"},
     // 你可以不断按格式往下增加
