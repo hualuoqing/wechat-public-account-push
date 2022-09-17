@@ -60,11 +60,11 @@ export const config = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: "Crow",
+      name: "ayy",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "o5o9U6B8b_KhgI71JWuFWhdiw_IQ",
+      id: "o5o9U6BkJEsne4wjweTPZoo-nW8A",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "ma4qRx3F76hVV41HC_Rvjb9Pfp1XwEdh3-1tPmxGitw",
+      useTemplateId: "TqXFwsblyzL0e2JG71TS1W3DFKr7FfwRbRulYL3yDKs",
       // 所在省份
       province: "湖北",
       // 所在城市
@@ -93,9 +93,9 @@ export const config = {
     },
     {
       name: ": L",
-      id: "o5o9U6GZ7tY6sRG08hKjXZ8rJFTs",
+      id: "",
       useTemplateId: "ma4qRx3F76hVV41HC_Rvjb9Pfp1XwEdh3-1tPmxGitw",
-      province: "",
+      province: "山西",
       city: "太原",
       horoscopeDate: '',
       horoscopeDateType: '',
@@ -105,7 +105,7 @@ export const config = {
     },
     {
       name: "靳顺达",
-      id: "o5o9U6Djbc0BbBZsso-CZezP-Hlg",
+      id: "",
       useTemplateId: "ma4qRx3F76hVV41HC_Rvjb9Pfp1XwEdh3-1tPmxGitw",
       province: "",
       city: "定州",
@@ -117,7 +117,7 @@ export const config = {
     },
     {
       name: "Nicoodoz.",
-      id: "o5o9U6ImQjHlcpHl_r602wg2i-eo",
+      id: "",
       useTemplateId: "ma4qRx3F76hVV41HC_Rvjb9Pfp1XwEdh3-1tPmxGitw",
       province: "",
       city: "曲阳",
