@@ -24,7 +24,7 @@ export const config = {
 
     /** 节假日 */
     // 下一休息日综合提醒
-    holidaytts: false,
+    holidaytts: true,
 
     /** 每日N句 */
     // 金山每日一句
