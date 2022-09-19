@@ -60,9 +60,9 @@ export const config = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: "ayy",
+      name: "crow",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "",
+      id: "o5o9U6B8b_KhgI71JWuFWhdiw_IQ",
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "AcoB9J4DQhRcc09GLFbLY72fmRA3cehp3JEAFosXUBg",
       // 所在省份
@@ -94,14 +94,14 @@ export const config = {
     {
       name: ": L",
       id: "o5o9U6GZ7tY6sRG08hKjXZ8rJFTs",
-      useTemplateId: "t6alUUKvLryxBVg9wSKYnO15jobd5MDEQynoZpLIck0",
+      useTemplateId: "z2lDn1yY7cMrgbhBvSBec3hmgZRuDymqpX0LUcVHx2Q",
       province: "山西",
       city: "太原",
-      horoscopeDate: '11-08',
-      horoscopeDateType: '今日',
-      openUrl: "https://wangxinleo.cn",
+      horoscopeDate: '1998-11-08',
+      horoscopeDateType: '',
+      openUrl: "https://无.cn",
       festivals: [ {"type": "*生日", "name": "坏姐姐", "year": "1998", "date": "11-08"},],
-      customizedDateList: []
+      customizedDateList: [ {"keyword": "love_day", date: "1998-11-08"},]
     },
     {
       name: "靳顺达",
@@ -136,7 +136,7 @@ export const config = {
    */
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: "",
+  CALLBACK_TEMPLATE_ID: "ocMtaNerKFu_DRmA4N8oEUaSxu01UY7HpTzDsxD92Y8",
 
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
   CALLBACK_USERS: [
