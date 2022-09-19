@@ -62,7 +62,7 @@ export const config = {
       // 想要发送的人的名字
       name: "ayy",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "o5o9U6BkJEsne4wjweTPZoo-nW8A",
+      id: "",
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "AcoB9J4DQhRcc09GLFbLY72fmRA3cehp3JEAFosXUBg",
       // 所在省份
@@ -93,14 +93,14 @@ export const config = {
     },
     {
       name: ": L",
-      id: "",
-      useTemplateId: "ma4qRx3F76hVV41HC_Rvjb9Pfp1XwEdh3-1tPmxGitw",
+      id: "o5o9U6GZ7tY6sRG08hKjXZ8rJFTs",
+      useTemplateId: "t6alUUKvLryxBVg9wSKYnO15jobd5MDEQynoZpLIck0",
       province: "山西",
       city: "太原",
-      horoscopeDate: '',
-      horoscopeDateType: '',
+      horoscopeDate: '11-08',
+      horoscopeDateType: '今日',
       openUrl: "https://wangxinleo.cn",
-      festivals: [],
+      festivals: [ {"type": "*生日", "name": "坏姐姐", "year": "1998", "date": "11-08"},],
       customizedDateList: []
     },
     {
@@ -185,7 +185,7 @@ export const config = {
     {"type": "*生日", "name": "老婆", "year": "1996", "date": "09-09", isShowAge: true},
     {"type": "节日", "name": "结婚纪念日", "year": "2020", "date": "09-03"},
     // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
-    {"type": "生日", "name": "李四", "year": "1996", "date": "09-31", isShowAge: true},
+    {"type": "生日", "name": "姐姐", "year": "1998", "date": "11-16", isShowAge: true},
     {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "09-01"},
     // 你可以不断按格式往下增加
     // ...
