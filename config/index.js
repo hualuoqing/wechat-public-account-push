@@ -93,7 +93,7 @@ export const config = {
     },
     {
       name: ": L",
-      id: "",
+      id: "o5o9U6GZ7tY6sRG08hKjXZ8rJFTs",
       useTemplateId: "z2lDn1yY7cMrgbhBvSBec3hmgZRuDymqpX0LUcVHx2Q",
       province: "山西",
       city: "太原",
