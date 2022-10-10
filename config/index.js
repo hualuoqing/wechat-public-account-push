@@ -104,9 +104,9 @@ export const config = {
       customizedDateList: [ {"keyword": "love_day", date: "1998-11-08"},]
     },
     {
-      name: "",
-      id: "",
-      useTemplateId: "",
+      name: "crow",
+      id: "o5o9U6B8b_KhgI71JWuFWhdiw_IQ",
+      useTemplateId: "z2lDn1yY7cMrgbhBvSBec3hmgZRuDymqpX0LUcVHx2Q",
       province: "",
       city: "",
       horoscopeDate: '',
