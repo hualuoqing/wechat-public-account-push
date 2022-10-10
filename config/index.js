@@ -60,9 +60,9 @@ export const config = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: "crow",
+      name: "星落時绘织",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "o5o9U6B8b_KhgI71JWuFWhdiw_IQ",
+      id: "o5o9U6BkJEsne4wjweTPZoo-nW8A",
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "g7kbir085nSFgF081Qw0vmoION5EtibwoinXaJwo0y4",
       // 所在省份
@@ -93,7 +93,7 @@ export const config = {
     },
     {
       name: ": L",
-      id: "",
+      id: "o5o9U6GZ7tY6sRG08hKjXZ8rJFTs",
       useTemplateId: "z2lDn1yY7cMrgbhBvSBec3hmgZRuDymqpX0LUcVHx2Q",
       province: "山西",
       city: "太原",
@@ -104,9 +104,9 @@ export const config = {
       customizedDateList: [ {"keyword": "love_day", date: "1998-11-08"},]
     },
     {
-      name: "crow",
-      id: "o5o9U6B8b_KhgI71JWuFWhdiw_IQ",
-      useTemplateId: "z2lDn1yY7cMrgbhBvSBec3hmgZRuDymqpX0LUcVHx2Q",
+      name: "",
+      id: "",
+      useTemplateId: "",
       province: "",
       city: "",
       horoscopeDate: '',
