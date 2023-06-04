@@ -28,7 +28,7 @@ export const config = {
 
     /** 每日N句 */
     // 金山每日一句
-    CIBA: true,
+    CIBA: false,
     // 每日一言
     oneTalk: false,
     // 土味情话(彩虹屁)
@@ -64,7 +64,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "o5o9U6B8b_KhgI71JWuFWhdiw_IQ",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "NKfa6AVuuiEoICbZoXnUa5g1aWsjDtDvyEbCsrTcN64",
+      useTemplateId: "TyrEM7pP9fd7y5ivddJUefj0s2BuQHQpjvUSZY98AKU",
       // 所在省份
       province: "北京",
       // 所在城市
@@ -136,7 +136,7 @@ export const config = {
    */
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: "NKfa6AVuuiEoICbZoXnUa5g1aWsjDtDvyEbCsrTcN64",
+  CALLBACK_TEMPLATE_ID: "",
 
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
   CALLBACK_USERS: [
