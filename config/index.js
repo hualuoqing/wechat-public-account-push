@@ -70,7 +70,7 @@ export const config = {
       // 所在城市
       city: "武汉",
       // 新历生日, 仅用作获取星座运势, 格式必须
-      horoscopeDate: '04-15',
+      horoscopeDate: '2001-9-28',
       // 获取什么时候的星座运势，可选：['今日', '明日', '本周', '本月', '今年'], 留空则随机
       horoscopeDateType: '今日',
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
@@ -78,17 +78,17 @@ export const config = {
       // 专属节日提醒，如果你在这里填写了节日提醒，就不会执行FESTIVALS的提醒了, 和FESTIVALS的配置方法相同，可以往下查看，我这里就不重复写了
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
-        {"type": "*生日", "name": "笨憨憨", "year": "2001", "date": "04-16"},
+        {"type": "*生日", "name": "主人", "year": "2001", "date": "09-28"},
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
       ],
       // 专属纪念日/倒数日，如果你在这里填写了纪念日/倒数日，就不会计算CUSTOMIZED_DATE_LIST的日子了, 和CUSTOMIZED_DATE_LIST的配置方法相同，可以往下查看，我这里就不重复写了
       customizedDateList: [
         // 在一起的日子
-        {"keyword": "love_day", date: "2001-04-16"},
+        {"keyword": "love_day", date: "2001-09-28"},
         // 结婚纪念日
         {"keyword": "marry_day", date: "2023-01-07"},
         // 退伍日
-        {"keyword": "ex_day", date: "2022-09-04"},
+        {"keyword": "ex_day", date: "2022-12-28"},
       ]
     },
     {
