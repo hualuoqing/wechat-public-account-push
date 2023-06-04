@@ -51,7 +51,7 @@ export const config = {
 
   // 每日一言的内容类型
   // 可以填写【动画，漫画，游戏，小说，原创，网络，其他】； 随机则填写 ""
-  LITERARY_PREFERENCE: "",
+  LITERARY_PREFERENCE: """",
   
 
   /**
@@ -64,11 +64,11 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "o5o9U6B8b_KhgI71JWuFWhdiw_IQ",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "Fh1TQb0uUx4sHCoW3Ys8nHWpMZ9cUOT7iHXppCTc7no",
+      useTemplateId: "2rgqrSvZ9XVnpzcGBCDA4oNijx8wU4Z2R0QWMFiV8V0",
       // 所在省份
       province: "北京",
       // 所在城市
-      city: "东城区",
+      city: "北京",
       // 新历生日, 仅用作获取星座运势, 格式必须
       horoscopeDate: '2001-9-28',
       // 获取什么时候的星座运势，可选：['今日', '明日', '本周', '本月', '今年'], 留空则随机
@@ -157,9 +157,9 @@ export const config = {
   /** 天气相关 */
 
   // 默认所在省份, USERS 中没填的话, 会默认拿这里的省份
-  PROVINCE: "湖北",
+  PROVINCE: "北京",
   // 默认所在城市, USERS 中没填的话, 会默认拿这里的城市
-  CITY: "武汉",
+  CITY: "东城区",
 
   /** 重要节日相关 */
 
